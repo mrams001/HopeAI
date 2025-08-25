@@ -1,2 +1,0 @@
-# HopeAI
-Assignment Repo
